@@ -1,0 +1,4 @@
+R R R R R
+R S _ _ R
+R _ _ E R
+R R R R R
