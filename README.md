@@ -1,2 +1,2 @@
 # CaveCartographer
-A text-based adventure game where players explore a grid-like cave system, map their path, avoid obstacles, and try to exit the cave.
+This project is a text-based adventure game where players explore a grid-like cave system using a torch to reveal their surroundings while searching for the exit. Movement is controlled through basic commands, allowing players to navigate the cave, uncover hidden areas, and avoid rocks. A dynamic map tracks the explored sections, adding an element of mystery. Descriptive text enhances the experience, allowing for future expansions such as procedurally generated caves or richer storylines.
